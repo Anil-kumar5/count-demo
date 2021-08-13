@@ -13,3 +13,8 @@ after adding a new file to project folder and now use git status then it shows f
 to track the untracked files use add .(period) to track all the files or use add filename to track  parrticular file
 then after use git status
 then commit the changes 
+pwd is used to check where is our project working directory
+
+git remote add origin http link for new ones
+
+git push -u origin master(or) main depends
