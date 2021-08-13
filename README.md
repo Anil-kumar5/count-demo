@@ -37,3 +37,4 @@ git diff childbranchname
 
 enter q button to quit of particular command
 
+just added few words to observe the branches
