@@ -26,4 +26,14 @@ git branch it shows the names of branches
 if you want to switch between two branches use
 git checkout -b newbranch name
 
-in command if you type the some part of commands or files name use tab button           
+in command if you type the some part of commands or files name use tab button    
+
+git checkout branchnames is used to switch between branches
+
+the changes you did in children branch wont appear in parent branch  try by using main branch and anybranch
+
+suppose if you are in master branch and you want to know the difference between master branch and its child branch use 
+git diff childbranchname
+
+enter q button to quit of particular command
+
