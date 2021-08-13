@@ -18,3 +18,12 @@ pwd is used to check where is our project working directory
 git remote add origin http link for new ones
 
 git push -u origin master(or) main depends
+
+
+//branches
+git branch it shows the names of branches
+
+if you want to switch between two branches use
+git checkout -b newbranch name
+
+in command if you type the some part of commands or files name use tab button           
