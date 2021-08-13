@@ -17,4 +17,4 @@ pwd is used to check where is our project working directory
 
 git remote add origin http link for new ones
 
-git push -u origin master(or) main depends
+git push -u origin master(or) main dependson
